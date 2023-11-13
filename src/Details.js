@@ -86,14 +86,14 @@ export const eduDetails = [
   
   
   {
-    Position: "Product Management",
-    Company: 'Scrum Foundation Professional Certificate',
+    Position: "Scrum Foundational Professional certificate ",
+    Company: 'Certiprof',
     Location: "Lagos. Nigeria",
-    Type: "Professional Knowledge - Certiprof June 2023",
+    Type: "Professional Knowledge",
     Duration: "June 2023",
   },
   {
-    Position: "Business Development: People and vision",
+    Position: "Product Management",
     Company: 'Pluralcode Academy',
     Location: "Lagos. Nigeria",
     Type: "Professional Knowledge",
